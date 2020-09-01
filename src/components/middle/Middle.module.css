@@ -1,0 +1,22 @@
+.middle
+{
+    /* background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../../svgr/night.jpg); */
+    text-align: center;
+    margin:100px 0;
+    height:300%;
+}
+h2{
+    padding:30px;
+}
+.head{
+    margin:20px 0;
+}
+.grid{
+    margin:0 2% !important;
+    height:200px !important;
+}
+.gridbtw{
+    margin:0 2% !important;
+    height:300px !important;
+    width:200px !important;
+}

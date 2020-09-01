@@ -1,0 +1,17 @@
+.space{
+    margin: 10% 0;
+}
+.space p{
+    margin:10% 0;
+    word-spacing: 2px;
+}
+.grid
+{
+    margin-top: 10px !important;
+}
+@media (max-width: 480px) {
+    img{
+        width:300px;
+        height:300px;
+    }
+}
